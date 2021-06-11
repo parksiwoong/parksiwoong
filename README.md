@@ -22,10 +22,11 @@ thank you.<br/>
 <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <br/>
- <img src="https://img.shields.io/badge/docker-29ABE2?style=flat-square&logo=docker&logoColor=white"/>
+ <br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/docker-29ABE2?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
-   <img src="https://img.shields.io/badge/centos-262577?style=flat-square&logo=centos&logoColor=white"/>
+ <img src="https://img.shields.io/badge/centos-262577?style=flat-square&logo=centos&logoColor=white"/>
 </div>
 
 <br/><br/>
