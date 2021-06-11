@@ -4,7 +4,7 @@
 <div align = "center">
 
 <br/>
-<strong>Park siwoong 🥳</strong><br><br>
+<strong>Park siwoong 👋</strong><br><br>
 Hello, I'm Siwoong (Park).<br>
 coding so happy .<br>
 thank you.<br/>
