@@ -12,10 +12,7 @@ thank you.<br/>
 
 <br/>
 
-●●●
-
-
-●●●
+●●●Tech Stack
 
 <br/>
 
